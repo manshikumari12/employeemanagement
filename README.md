@@ -9,14 +9,14 @@ Ensure you have Node.js and MongoDB installed on your machine.
 
 Install dependencies: npm install
 
-How to Run
-Run the following command to start the server:
+How to Run  <br>
+Run the following command to start the server: npm run server
 
-bash
-Copy code
-npm run server
-Endpoints
-Add Employee
+
+
+  <br>
+
+
 
 Endpoint: POST /employees
 Authorization: Requires a valid JWT token in the headers.
